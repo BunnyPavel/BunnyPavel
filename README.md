@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/guilherme-coelho-685177202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BunnyPavel/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajjwalsubedi" height="30" width="40" /></a>
-<a href="https://instagram.com/bunny_pavel" target="blank"><img align="center" src="https://raw.githubusercontent.com/BunnyPavel/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prazwolsubedi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/guilherme-coelho-685177202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BunnyPavel/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="BunnyPavel" height="30" width="40" /></a>
+<a href="https://instagram.com/bunny_pavel" target="blank"><img align="center" src="https://raw.githubusercontent.com/BunnyPavel/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="BunnyPavel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
