@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7BCFF7FF&width=435&lines=Hello!%2C+My+name+is+Guilherme;I'm+a+Developer+and+Designer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=DC82E0&width=500&lines=Hello!%2C+My+name+is+Guilherme;I'm+a+Developer+and+Design.;Ol%C3%A1!%2C+Meu+nome+%C3%A9+Guilherme;Sou+Desenvolvedor+e+Designer.)](https://git.io/typing-svg)
+
 
  
  </div>
@@ -19,11 +20,6 @@
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/guilherme-coelho-685177202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BunnyPavel/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="BunnyPavel" height="30" width="40" /></a>
-<a href="https://instagram.com/bunny_pavel" target="blank"><img align="center" src="https://raw.githubusercontent.com/BunnyPavel/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="BunnyPavel" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block"><br>
@@ -32,7 +28,7 @@
   
   <img align="center" alt="Lukieyh-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Lukieyh-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  >
-  <img align="center" alt="Lukieyh-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  
   
   <br><br>
   
