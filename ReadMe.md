@@ -1,4 +1,13 @@
 
+ </div>
+
+- 🌱 I’m currently learning **TypeScript**
+
+- 📫 How to reach me **guilhermecoelhogama@gmail.com**
+
+<br> 
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guilherme-coelho-685177202/) 
 
